@@ -5,7 +5,7 @@ EAPI=6
 inherit gnome2 flag-o-matic multilib-minimal
 
 DESCRIPTION="Typesafe callback system for standard C++"
-HOMEPAGE="http://libsigc.sourceforge.net/"
+HOMEPAGE="https://libsigcplusplus.github.io/libsigcplusplus/"
 
 LICENSE="LGPL-2.1+"
 SLOT="2"
